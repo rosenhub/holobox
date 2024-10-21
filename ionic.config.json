@@ -1,0 +1,8 @@
+{
+  "name": "Holobox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "19724c1c"
+}
